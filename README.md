@@ -10,7 +10,7 @@ This project is a simple app to control lights using SwiftUI
 ## Getting Started
 
 1. Clone the repository.
-2. Open `Test.xcodeproj` in Xcode.
+2. Open `LightScheduler.xcodeproj` in Xcode.
 3. Run the app on your device or simulator.
 
 
