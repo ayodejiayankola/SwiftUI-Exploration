@@ -14,3 +14,8 @@ This project is a simple app to control lights using SwiftUI. It has features fo
 1. Clone the repository.
 2. Open `Test.xcodeproj` in Xcode.
 3. Run the app on your device or simulator.
+
+
+
+https://github.com/user-attachments/assets/87de3cfc-558d-40b3-8f00-e5d0c7cf1117
+
