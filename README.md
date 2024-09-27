@@ -1,8 +1,6 @@
 # SwiftUI Project
 
-This project is a simple app to control lights using SwiftUI. It has features for managing power, brightness, and schedules.
-
-## Features
+This project is a simple app to control lights using SwiftUI
 
 - **Power Control**: Turn the light on or off.
 - **Brightness Control**: Adjust the brightness with a slider.
